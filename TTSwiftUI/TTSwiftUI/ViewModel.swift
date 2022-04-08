@@ -10,5 +10,5 @@ import Foundation
 
 
 class ViewModel: ObservableObject {
-    @Published var name = "1"
+    @Published var name = "我是内容啊"
 }
